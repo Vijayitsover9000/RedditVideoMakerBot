@@ -1,3 +1,5 @@
+This is not my repository as you can see i forked it.
+
 # Reddit Video Maker Bot 🎥
 
 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.
